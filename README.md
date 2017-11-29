@@ -17,6 +17,12 @@ Android application for assisting travelers arrive at the airport gate on time.
 2) TSA: time it takes to get through TSA checkpoint 
 3) Flight begins boarding: time remaining until flight begins boarding 
 
+# Features 
+1) Create, update, and manage account information 
+2) Save future flights 
+3) View logistics dashboard 
+4) Alerts for flight logistics 
+
 
 
 
